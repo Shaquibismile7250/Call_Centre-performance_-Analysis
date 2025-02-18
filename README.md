@@ -32,5 +32,5 @@ This project provides valuable insights into call center operations, helping to 
 Contact
 For any questions or further information, please contact:
 
-Name: Devanshi Jignesh Bhatt
-Email: devanshijbhatt@gmail.com
+Name: Mohammad Shaquib 
+Email: Mohammadshaquib7250@gmail.com
